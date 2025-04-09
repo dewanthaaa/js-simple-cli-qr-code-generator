@@ -1,6 +1,7 @@
 /* SIMPLE COMMAND LINE INTERFACE QR CODE GENERATOR *\
 
-Here is a simple qr code generator for every active link that you want to request
+This is a simple qr code generator for every active link that you want to request.
+
 Build using NodeJS
 
 To Run : node index.js
